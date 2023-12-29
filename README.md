@@ -19,5 +19,7 @@ day after 24-04-2017, which is 25-04-2017.
 other days, that day shouldn't be 7 days after 24/04/2017.
 
 git clone https://github.com/phaniiiiiiii/project_AI
+
 pip install -q -r requirements.txt
+
 python main.py
