@@ -18,6 +18,6 @@ day after 24-04-2017, which is 25-04-2017.
 -TLDR: today date can be left empty if used for demonstration purpose. If you want to predict
 other days, that day shouldn't be 7 days after 24/04/2017.
 
-git clone # link_to_your_repo
+git clone https://github.com/phaniiiiiiii/project_AI
 pip install -q -r requirements.txt
-python main.py # necessary_parameters
+python main.py
